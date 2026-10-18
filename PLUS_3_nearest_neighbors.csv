@@ -1,0 +1,4 @@
+Test Image,Test Actual Label,Neighbor Rank,Neighbor Image,Neighbor Label,Distance
+Data_FV_Spoofing_WS2025_26/PLUS/real/001/PLUS-FV3-Laser_PALMAR_001_01_02_01.png,0,1,Data_FV_Spoofing_WS2025_26/PLUS/real/057/PLUS-FV3-Laser_PALMAR_057_01_09_02.png,0,1.2484862995357746
+Data_FV_Spoofing_WS2025_26/PLUS/real/001/PLUS-FV3-Laser_PALMAR_001_01_02_01.png,0,2,Data_FV_Spoofing_WS2025_26/PLUS/real/009/PLUS-FV3-Laser_PALMAR_009_01_09_03.png,0,1.5123745717518278
+Data_FV_Spoofing_WS2025_26/PLUS/real/001/PLUS-FV3-Laser_PALMAR_001_01_02_01.png,0,3,Data_FV_Spoofing_WS2025_26/PLUS/real/002/PLUS-FV3-Laser_PALMAR_002_01_07_01.png,0,1.6360517328923898
